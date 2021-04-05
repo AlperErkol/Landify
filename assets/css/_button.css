@@ -1,0 +1,19 @@
+.button-purple{
+
+    background-color: #8C30F5;
+    color: white;
+    padding: 16px 41px;
+    border-radius: 8px;
+    text-align:center;  
+}
+
+.icon-button span{
+    padding-right:0.5rem;
+}
+.icon-button i img{
+    position: absolute;
+    bottom: 0;
+}
+
+
+

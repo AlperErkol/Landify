@@ -1,0 +1,49 @@
+* {
+    outline: none;
+    box-sizing: border-box;
+}
+
+html,body{
+    overflow-x: hidden;
+    width: 100%;
+}
+
+body{
+    font-family: 'Manrope', sans-serif;
+    
+}
+
+html, body,
+ul, ol, header{
+    padding: 0;
+    margin: 0;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+button{
+    border:none;
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
+
+h1,h2,h3,h4,h5,h6,
+p{
+    margin: 0;
+}
+
+@media only screen and (max-width: 1024px) {
+
+    
+
+    img{
+        max-width: 100%;
+    }
+
+}
